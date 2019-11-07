@@ -1,0 +1,24 @@
+{
+  "name": "chemistry-front",
+  "version": "1.0.0",
+  "description": "Typescript - Jest - Enzyme - Parcel - React - React router - Less",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillomu/chemistry-front.git"
+  },
+  "author": "Guillaume Groult",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillomu/chemistry-front/issues"
+  },
+  "homepage": "https://github.com/guillomu/chemistry-front#readme",
+  "devDependencies": {
+    "less": "^3.10.3",
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.7.2"
+  }
+}
