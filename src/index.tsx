@@ -1,7 +1,8 @@
-alert("Salut le js est bien chargé.");
+import * as React from "react";
+import * as ReactDOM from "react-dom";
 
-function hello(word: string) {
-  console.log(word);
-}
+import App from "./app";
 
-hello("Hello!!!");
+const MOUNT_NODE = document.getElementById("app");
+
+ReactDOM.render(<App />, MOUNT_NODE);
