@@ -1,6 +1,6 @@
-# Chemistry Front
+# Masterpiece Front
 
-Chemistry Front - Typescript - Jest - Enzyme - Parcel - React - React router - fetch / axios - less - Dev / Prod
+Masterpiece Front - Typescript - Jest - Enzyme - Parcel - React - React router - fetch / axios - less - Dev / Prod
 
 ## How to build
 
